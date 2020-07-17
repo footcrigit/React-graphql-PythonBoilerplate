@@ -1,2 +1,3 @@
-./migrations
+migrations
 *.pyc
+envgraph
