@@ -1,0 +1,13 @@
+.MainContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    font-family: Arial;
+    justify-content: center;
+}
+
+.tableContaner{
+    width: 50%;
+    margin-top: 10%;
+}
